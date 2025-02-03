@@ -1,6 +1,5 @@
 
 # Hello World, I am Muhammad Umair 👋
-![gitartwork](gitartwork.svg)
 ### I am a Software Engineer and Tech Enthusiast 
 - 😄 I am currently striving to learn, develop & Grow.
 - 🔭 I am currently working on Python, PHP and Laravel.
